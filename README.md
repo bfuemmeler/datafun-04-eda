@@ -132,3 +132,7 @@ Open the Notebook and click Run all to execute it.
 ## Additional Resources 
 - See [RESOURCES.md](docs/RESOURCES.md)
 
+2-3-25
+Created Markdown title & header
+Created Python cell for imports
+Created Python cell to load data
