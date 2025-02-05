@@ -132,6 +132,13 @@ Open the Notebook and click Run all to execute it.
 ## Additional Resources 
 - See [RESOURCES.md](docs/RESOURCES.md)
 
+<<<<<<< HEAD
 # added all code and tested each one
 # added all markdown with observations and insight
 # Run All resulted in 0 errors or warnings
+=======
+2-3-25
+Created Markdown title & header
+Created Python cell for imports
+Created Python cell to load data
+>>>>>>> b412eaeca313bcc5743e157f9518a2ab4c561826
