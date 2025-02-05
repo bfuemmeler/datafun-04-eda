@@ -132,3 +132,6 @@ Open the Notebook and click Run all to execute it.
 ## Additional Resources 
 - See [RESOURCES.md](docs/RESOURCES.md)
 
+# added all code and tested each one
+# added all markdown with observations and insight
+# Run All resulted in 0 errors or warnings
